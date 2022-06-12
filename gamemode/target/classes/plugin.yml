@@ -1,0 +1,13 @@
+name: Gamemode
+version: '1.0-SNAPSHOT'
+main: gamemodechanger.gamemode.Gamemode
+api-version: 1.17
+commands:
+  gmc:
+    permission: stuff.gmc
+  gms:
+      permission: stuff.gms
+  gma:
+      permission: stuff.gma
+  gmsp:
+      permission: stuff.gmsp
